@@ -61,8 +61,8 @@ which also led to a place he'd seek when in need of inspiration. Abney House was
 and of a statue that commemorates him was erected there.
 
 Atypically for his time, Watts was careful to distinguish _prepositions_ from _judgments_. His
-primary work on logic, _Logick: or, the Right use of Reason in the Enquiry After Truth, with a Variety
-of Rules to Guard Against Error in the Affairs of Religion and Human Life, as Well as in the
+primary work on logic, _Logick: or, the Right use of Reason in the Enquiry After Truth, with a
+Variety of Rules to Guard Against Error in the Affairs of Religion and Human Life, as Well as in the
 Sciences_, was the standard text on logic in Cambridge, Oxford, Yale and Harvard; in Oxford,
 particularly, it held this prestigious position for over a century.
 
@@ -71,9 +71,9 @@ referred to by **Melville** in chapter 22 of _Moby-Dick_: to counteract the prop
 to sing prophane _shanties_, the captain of the _Pequod_ "placed a small choice copy of Watts in each
 seaman’s berth." He is also cited by **Dickens** in _David Copperfield_.
 
-As a theologian, Watts is credited with the introduction of hymns to the British church. He is the
-author of the universally known _Joy to the World_. I was tempted to name the language "joy" after
-this fact, but the name was [taken](https://www.latrobe.edu.au/humanities/research/research-projects/past-projects/joy-programming-language).
+Watts is also credited with the introduction of hymns to the British church. He is the author of the
+universally known _Joy to the World_. I was tempted to name the language "joy" after this fact, but
+the name was [taken](https://www.latrobe.edu.au/humanities/research/research-projects/past-projects/joy-programming-language).
 
 
 ## License
